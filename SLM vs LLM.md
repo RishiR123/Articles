@@ -20,7 +20,7 @@ One key advantage of SLMs is that they are often more effective in specific doma
 ### LLMs Are General-Purpose, But Not Always Necessary
 LLMs are designed to handle a wide range of tasks, but in many cases, their general nature makes them overkill. When you only need to solve a specific problem (like classifying images or predicting stock prices), SLMs are often the better choice. They are faster, more efficient, and easier to train than LLMs, which might end up underperforming for these specific tasks due to their broader design.
 
-![LLMs vs SLMs for Specific Tasks](https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2Fllms-are-not-enough-why-chatbots-need-knowledge-v0-JICKD8m1SXSR2ANnruK4GXY5civSRt31c1x2slfi6xo.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Dff13999665c20ce60dc340c5c58247f4600c0c6b&rdt=40692)
+![LLMs vs SLMs for Specific Tasks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
 
 ### Cost and Computational Efficiency
 LLMs are expensive to train and require a lot of computational power. Not all companies or projects need the complex capabilities of an LLM. SLMs, on the other hand, can be run on much less powerful hardware and trained with fewer resources. If you don’t need the complexity of an LLM, SLMs offer a more cost-effective solution while still delivering high performance in certain tasks.
@@ -36,7 +36,7 @@ For example:
 - Image classification tasks are more efficiently handled by models like decision trees or random forests (SLM-based).
 - Medical diagnosis tasks may be better suited for SLMs trained on specific datasets, rather than the broad capabilities of an LLM.
 - Spam filtering works great with simpler models like logistic regression or Naive Bayes.
-
+![Conclusion](https://usercontent.one/wp/mediaan.com/wp-content/uploads/2024/10/LLMs-vs-SLMs.jpg?media=1722350694)
 
 
 ## Conclusion
